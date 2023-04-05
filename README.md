@@ -11,7 +11,7 @@ To evaluate the various features selection strategies, we use four models: Logis
 We can visualize the various results below:
 
 Feature Selection Method, Model,  Accuracy Score, F1 Score, Precision Score,  Recall Score
-
+------------------------------------------------------------------------------------------
 None, CatBoost, 0.92, 0.86, 0.91, 0.83
 
 None, Decision Tree,  0.83, 0.77, 0.75, 0.81
